@@ -1,0 +1,15 @@
+template/node_modules
+template/build
+.DS_Store
+
+Thumbs.db
+.idea
+*.suo
+*.sublime-project
+*.sublime-workspace
+
+node_modules/
+
+dist/
+/npm-debug.log
+out/
